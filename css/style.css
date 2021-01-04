@@ -4,3 +4,18 @@
 }
 
 /*  Main Page CSS ===============================*/
+.titleText {
+    /* background-image: url("./images/singapore.jpg"); */
+    background-color: green;
+    color: white;
+    padding: 100px 25px;
+}
+
+.titleText h1 {
+    font-size: 80px;
+}
+
+.titleText p1 {
+    font-size: 70px;
+}
+
