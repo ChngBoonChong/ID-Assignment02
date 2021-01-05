@@ -5,7 +5,9 @@
 
 /*  Main Page CSS ===============================*/
 .titleText {
-    background-color: green;
+    background-image: url(../img/singapore.jpg);
+    background-size: cover;
+    background-position: center;
     color: white;
     padding: 120px 25px;
 }
@@ -18,3 +20,29 @@
     font-size: 70px;
 }
 
+.dateInput {
+    color: black;
+    padding: 20px 25px;
+}
+
+.submitButton {
+    padding-top: 2%;
+}
+
+.resultContainer {
+    background-color: rgb(243, 243, 243);
+    padding: 80px 50px;
+}
+
+.resultContainer h2 {
+    font-size: 50px;
+}
+
+.resultContainer h4 {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.resultContainer p {
+    font-size: 13px;
+}

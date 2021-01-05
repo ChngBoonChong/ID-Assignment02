@@ -3,3 +3,4 @@ $.getJSON("https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=2
     console.log(data);
 }
 );
+

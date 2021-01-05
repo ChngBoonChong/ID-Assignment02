@@ -16,7 +16,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <script src="js/script.js"></script>
-
     </head>
 
     <body>
@@ -24,6 +23,22 @@
         <div class="titleText text-center">
             <h1>Weather Checker</h1>
             <p>A website to help you check singapore weather forecasts</p>
+            
+            <form class="dateInput">
+                <div class="userInput">
+                    <input type="date" class="userInputBox" size="50" required>
+                    <!--<input type="email" class="userInputBox" size="50" required> -->
+                    <div class="submitButton">
+                        <button type="button" class="button btn-danger">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="resultContainer">
+            <h2><!-- JSON RESULT AREA NAME -->Ang Mo Kio</h2>
+            <h4><!-- JSON RESULT AREA FORECAST -->Partly Cloudy</h4>
+            <p><!-- JSON RESULT DATE -->01/02/2020</p>
         </div>
 
 
