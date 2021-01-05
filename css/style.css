@@ -9,7 +9,7 @@
     background-size: cover;
     background-position: center;
     color: white;
-    padding: 120px 25px;
+    padding: 100px 25px;
 }
 
 .titleText h1 {
@@ -22,7 +22,7 @@
 
 .resultContainer {
     background-color: rgb(243, 243, 243);
-    padding: 80px 50px;
+    padding: 55px 50px;
 }
 
 .resultContainer h2 {
@@ -36,4 +36,32 @@
 
 .resultContainer p {
     font-size: 13px;
+}
+
+.navBar{
+    padding: 5px;
+    background: rgb(52, 49, 77);
+}
+
+.navBar ul {
+    float: top;
+    text-align: right;
+    list-style-type: none;
+}
+
+.navBar ul li {
+    display: inline-block;
+}
+
+.navBar ul li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    transition: 0.5s ease-in-out;
+}
+
+.navBar ul li a:hover{
+    background-color: white;
+    color: black;
 }
