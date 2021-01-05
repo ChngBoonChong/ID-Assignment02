@@ -20,15 +20,6 @@
     font-size: 70px;
 }
 
-.dateInput {
-    color: black;
-    padding: 20px 25px;
-}
-
-.submitButton {
-    padding-top: 2%;
-}
-
 .resultContainer {
     background-color: rgb(243, 243, 243);
     padding: 80px 50px;

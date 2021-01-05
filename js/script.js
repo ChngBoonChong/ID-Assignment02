@@ -1,6 +1,5 @@
-$.getJSON("https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=2020-12-01", function(data)
+$.getJSON("http://api.openweathermap.org/data/2.5/weather?q=singapore&appid=73699de2b84a44f184293ea613935bc8", function(data)
 {
     console.log(data);
-}
-);
+});
 
