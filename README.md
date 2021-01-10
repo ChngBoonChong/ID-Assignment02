@@ -20,6 +20,10 @@ Planned Features:
 - GitHub
 
 # Testing
+Functionality
+- API Works well, collects most recent daily data.
+- Buttons redirect/direct user to the correct pages.
+
 Responsive Design
 - Website scales well within the Desktop environment.
 
