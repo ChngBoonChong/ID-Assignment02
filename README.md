@@ -9,6 +9,7 @@ This website is for people looking for the current weather.
   
 # Research
 - I've found out that the color blue is a "calming" color which is ideal for a weather website.
+
 # Features
 Planned Features:
 - Pages Featuring:
@@ -29,6 +30,7 @@ Responsive Design
 
 Problems
 - Website does not scale well on mobile devices.
+- API doesn't work in GITHUB Page, it only works outside of it.
 
 # Credits
 API Used
