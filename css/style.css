@@ -3,7 +3,7 @@
     font-family: "Quicksand";
 }
 
-/*  Main Page CSS ===============================*/
+/*  Main Page & Credits CSS ===============================*/
 .titleText {
     background-image: url(../img/singapore.jpg);
     background-size: cover;
@@ -20,6 +20,22 @@
     font-size: 70px;
 }
 
+.creditText {
+    background-image: url(../img/singapore02.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 25px;
+}
+
+.creditText h1 {
+    font-size: 80px;
+}
+
+.creditText p1 {
+    font-size: 70px;
+}
+
 .resultContainer {
     background-color: rgb(243, 243, 243);
     padding: 55px 50px;
@@ -30,10 +46,24 @@
     text-align: center;
 }
 
+.resultContainer h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
 .resultContainer h4 {
     font-size: 45px;
     font-style: italic;
     text-align: center;
+}
+
+.resultContainer h5 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.resultContainer a {
+    color: orangered;
 }
 
 .resultContainer p {
@@ -75,3 +105,14 @@
     background-color: white;
     color: black;
 }
+
+.footer {
+    position: relative;
+    padding: 13px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(52, 49, 77);
+    color: white;
+    text-align: center;
+ }
