@@ -24,7 +24,7 @@ Responsive Design
 - Website scales well within the Desktop environment.
 
 Problems
-- NIL
+- Website does not scale well on mobile devices.
 
 # Credits
 API Used
@@ -32,10 +32,18 @@ API Used
   - Link: https://openweathermap.org/   
 
 Content
-- NIL
+- Bootstrap 3.4.1 CSS & JS
+  - CSS Link: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+  - JS Link: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+
+- AJAX 3.5.1 jquery JS:
+  - Link: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+
+- CSS Normalize:
+  - Link: https://necolas.github.io/normalize.css/
 
 MEDIA
-- NIL
+- Images taken from Google.
 
 ACKNOWLEDGEMENTS
-- NIL
+- How to use Public API: https://www.youtube.com/watch?v=InoAIgBZIEA
