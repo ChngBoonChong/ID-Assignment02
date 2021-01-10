@@ -8,7 +8,7 @@ This website is for people looking for the current weather.
 - As a User, I should be able to clearly see the Forecast, Temperature and Date clearly on the homepage. The details should be updated to the latest information.
   
 # Research
-
+- I've found out that the color blue is a "calming" color which is ideal for a weather website.
 # Features
 Planned Features:
 - Pages Featuring:
