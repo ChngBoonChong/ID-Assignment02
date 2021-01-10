@@ -11,7 +11,7 @@ This website is for people looking for the current weather.
 - I've found out that the color blue is a "calming" color which is ideal for a weather website.
 
 # Features
-Planned Features:
+Implemented Features:
 - Pages Featuring:
   - Home Page w/ forecast
   - Credits
